@@ -24,5 +24,5 @@ Este proyecto muestra un análisis simple pero visual de los géneros más popul
 Se observa un claro dominio de géneros como el pop, dance pop y rap, lo cual refleja la evolución de los gustos globales en la industria musical durante la última década.
 
 ## 🚀 Autora
-**Jane** – Aspiring Data Analyst ✨  
+**Ximena Garcia** – Aspiring Data Analyst ✨  
 ¡Primer proyecto de datos subido en julio 2025!
